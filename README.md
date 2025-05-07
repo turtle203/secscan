@@ -35,8 +35,8 @@ A powerful Python-based tool that automates domain reconnaissance, host discover
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/network-security-scanner.git
-cd network-security-scanner
+git clone https://github.com/yourusername/secscan.git
+cd secscan
 ```
 
 ### Install Nmap
